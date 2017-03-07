@@ -1,0 +1,33 @@
+{
+  "name": "suman-interactive",
+  "version": "0.0.1001",
+  "description": "Suman interactive project to guide users through advanced use cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjs/suman-interactive.git"
+  },
+  "keywords": [
+    "Suman",
+    "testing",
+    "interactive",
+    "promises",
+    "SLA",
+    "inquirer",
+    "inquirer-directory",
+    "command",
+    "command-line"
+  ],
+  "author": "Olegzandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanjs/suman-interactive/issues"
+  },
+  "homepage": "https://github.com/sumanjs/suman-interactive#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
