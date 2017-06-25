@@ -8,6 +8,8 @@
     "/.git/"
   ],
   "list": [
+    "suman-debug",
+    "suman-utils",
     "suman-inquirer",
     "suman-inquirer-directory"
   ]
