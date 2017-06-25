@@ -2,7 +2,7 @@
   "name": "suman-interactive",
   "version": "0.0.1001",
   "description": "Suman interactive project to guide users through advanced use cases",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "suman"
   },
@@ -28,6 +28,10 @@
   },
   "homepage": "https://github.com/sumanjs/suman-interactive#readme",
   "dependencies": {
-    "inquirer": "^3.0.6"
+    "async": "^2.4.1",
+    "suman-debug": "0.0.110",
+    "suman-inquirer": "latest",
+    "suman-inquirer-directory": "latest",
+    "suman-utils": "0.0.73111"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "linkToItself": true,
+  "searchRoots": [
+    "$HOME/WebstormProjects"
+  ],
+  "ignore": [
+    "/node_modules/",
+    "/.git/"
+  ],
+  "list": [
+    "suman-inquirer",
+    "suman-inquirer-directory"
+  ]
+}
