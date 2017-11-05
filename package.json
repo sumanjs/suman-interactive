@@ -1,6 +1,6 @@
 {
   "name": "suman-interactive",
-  "version": "0.0.1001",
+  "version": "0.0.1002",
   "description": "Suman interactive project to guide users through advanced use cases",
   "main": "lib/index.js",
   "scripts": {
