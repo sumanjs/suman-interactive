@@ -11,18 +11,19 @@
     "url": "git+https://github.com/sumanjs/suman-interactive.git"
   },
   "keywords": [
-    "Suman",
+    "suman",
+    "sumanjs",
     "testing",
     "interactive",
-    "promises",
-    "SLA",
     "inquirer",
     "inquirer-directory",
     "command",
-    "command-line"
+    "command-line",
+    "cli",
+    "interactive-cli"
   ],
-  "author": "Olegzandr",
-  "license": "ISC",
+  "author": "Olegzandr VD",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sumanjs/suman-interactive/issues"
   },
@@ -31,6 +32,6 @@
     "async": "^2.4.1",
     "suman-inquirer": "latest",
     "suman-inquirer-directory": "latest",
-    "suman-utils": "0.0.73111"
+    "suman-utils": "latest"
   }
 }
