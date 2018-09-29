@@ -4,6 +4,7 @@ coverage
 .idea
 test
 scripts
+dist
 .vscode
 
 ### files
@@ -20,7 +21,7 @@ yarn.lock
 *.sh
 
 ### negation
-!.d.ts
+!dist/readme.md
 
 
 
