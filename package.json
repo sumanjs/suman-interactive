@@ -4,7 +4,7 @@
   "description": "Suman interactive project to guide users through advanced use cases",
   "main": "lib/index.js",
   "scripts": {
-    "test": "suman"
+    "test": "suman test"
   },
   "repository": {
     "type": "git",
